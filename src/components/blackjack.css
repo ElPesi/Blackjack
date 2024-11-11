@@ -1,0 +1,19 @@
+.blackjack-container {
+    text-align: center;
+  }
+  
+  .cards-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .card {
+    margin: 0 10px;
+  }
+  
+  .card img {
+    width: 100px;
+    height: auto;
+  }
+  
